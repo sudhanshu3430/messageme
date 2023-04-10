@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336666453376",
+    "project_id": "projecman-b7059",
+    "storage_bucket": "projecman-b7059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336666453376:android:6a963c3bfd8546393a8d65",
+        "android_client_info": {
+          "package_name": "com.example.advchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336666453376-emcf8ph6ieqo0ibhp0ebhmpba2mq3bj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa5x0-AqgzRbvpKtzHxE9Qsh29oixqDPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336666453376-emcf8ph6ieqo0ibhp0ebhmpba2mq3bj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
